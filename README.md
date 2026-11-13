@@ -2,6 +2,8 @@
 
 A web app that turns long text and PDF documents into clear, concise summaries using Google's Gemini API. You choose the format, length and output language, and the summary streams in as it is generated.
 
+https://github.com/user-attachments/assets/d58e6978-cabb-4961-a630-044ab17b8a2a
+
 **Live demo:** https://summarai02.streamlit.app/
 
 ## Features
